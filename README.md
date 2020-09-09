@@ -1,5 +1,5 @@
 # Shop outfit
-                          ---  thank you so much❤❤❤  ---
+# Demo project
 ---
 **Chức năng của Website**:
 1. Người dùng
@@ -19,7 +19,7 @@
 **Công nghệ sử dụng**:
   - Framework: Expressjs
   - Hệ quản trị cơ sở dữ liệu: PostgreSQL 
-  - Template Engine: Pugjs
+  - Template Engine: Pug
   - Mô hình: MVC
 
 ---
@@ -28,4 +28,4 @@
 
 - hi [@callmeduc](https://github.com/callmeduc)
 
-                             ---  thank you so much❤❤❤  ---
+                             ---  hi.Have a Good Day ❤❤  ---

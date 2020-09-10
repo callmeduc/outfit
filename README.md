@@ -19,6 +19,7 @@
   - ...
 ---
 **Công nghệ sử dụng**:
+  - using Node.js, Express,..
   - Framework: Expressjs
   - Hệ quản trị cơ sở dữ liệu: PostgreSQL 
   - Template Engine: Pug
